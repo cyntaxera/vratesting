@@ -1,0 +1,18 @@
+{
+    "vsphere_server": "a1vm-vc-01.edu.govt.nz",
+    "vsphere_user": "srvvmwarevra@vsphere.edu.govt.nz",
+    "vsphere_password": "NmvCqcxHxlTJi!2354",
+    "vsphere_template_name": "Win2022clone_withupdates",
+    "vsphere_folder": "Templates",
+    "vsphere_dc_name": "Kapua",
+    "vsphere_compute_cluster": "Kapua - Compute",
+    "vsphere_host": "a1vm-vmh009.vsphere.edu.govt.nz",
+    "vsphere_portgroup_name": "A1_MOE_inNET_10.28.64_V464",
+    "vsphere_datastore": "A1PA-INF-123",
+    "winadmin_password": "@ft3rSh0ck",
+    "cpu_num": "2",
+    "mem_size": "4096",
+    "disk_size": "102400",
+    "os_iso_path": "[A1PA-BAK-153] ISO/Windows_Server_2019_Standard.ISO",
+    "vmtools_iso_path":"[A1PA-BAK-153] ISO/windows.iso"
+}
